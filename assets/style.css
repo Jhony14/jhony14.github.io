@@ -1,0 +1,9 @@
+.bg-image {
+  background-image: url("https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/coding-vs-programming-2.jpg");
+  height: 400px;
+  margin-top: 58px;
+}
+
+.mask {
+  background-color: rgba(0, 0, 0, 0.6);
+}
